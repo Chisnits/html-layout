@@ -1,0 +1,41 @@
+.column-one {
+    height:110px;
+    width:100%;
+    background-color:purple;
+}
+.column-two {
+    height:300px;
+    width:100%;
+    padding:40px;
+}
+h2 {
+    padding:40px
+}
+.column-three {
+    height:110px;
+    width:100%;
+    background-color:maroon;
+}
+.column-four {
+    height:110px;
+    width:100%;
+    background-color:springgreen;
+}
+.column-five {
+    height:110px;
+    width:100%;
+    background-color:lightblue;
+}
+.column-six {
+    height:110px;
+    width:100%;
+    background-color:gray;
+}
+.box {
+    height:75px;
+    width:75px;
+    background-color: orange;
+    position:absolute;
+    top:15px;
+    left:25px;   
+}

@@ -1,0 +1,26 @@
+body {
+    background-color: lightgrey;
+}
+
+.banner {
+    height:200px;
+    width:100%;
+    position: absolute;
+    background-color: #000;
+
+}
+
+.middle {
+    background-color: white;
+    height: 800px;
+    width: 50%;
+    margin: 0 auto;
+}
+
+.footer {
+    height:100px;
+    width: 50%;
+    text-align: center;
+    background-color: #000;
+    margin: 0 auto;
+}
